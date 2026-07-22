@@ -10,12 +10,7 @@ import {
   ChevronRight,
   CheckCircle2,
   Clock,
-  Calendar,
-  AlertCircle,
-  HelpCircle,
-  Database,
-  Lock,
-  Cpu
+  Calendar
 } from 'lucide-react';
 
 interface Topic {
